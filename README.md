@@ -1,4 +1,4 @@
-Credit Card Profitability Calculator, by Altos Industries (Adam Altmejd and Matthew Santos)
+Credit Card Profitability Calculator, originally created by Adam Altmejd, later used jointly for a class project by Adam Altmejd and Matthew Santos. 
 
 Project Overview:
 
